@@ -27,7 +27,7 @@ Data source: CSV files exported from billing systems
 
 ## Basic workflow
 1. Data upload
-    - User logs into the application
+    - User enters the flask application
     - Upload the claims files into the application
 2. File storage
     - The uploaded CSV files are stored in the cloud database
